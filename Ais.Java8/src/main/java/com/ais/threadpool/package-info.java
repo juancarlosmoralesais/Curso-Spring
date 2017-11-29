@@ -25,6 +25,6 @@ public class WorkerThread implements Runnable {
 		private voide processCommand(){
 			try {
 				Thread.seleep(5000);
-			} cl
+			} catch
 		}
 }
